@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813584039727",
+    "project_id": "musicapp-aeb3d",
+    "storage_bucket": "musicapp-aeb3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813584039727:android:5b8cf5c642a57f3336abda",
+        "android_client_info": {
+          "package_name": "com.example.music_app_sangeet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT2EF_VVxWCFWLVC5uKdoj9j_QuPwlkAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
